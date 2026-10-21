@@ -1,3 +1,7 @@
+### COVID-19 Power BI Dashboard
+
+[Click here to view the project repository](https://github.com/aishwaryam536/PowerBI-COVID19-Dashboard)
+
 # COVID-19 Analysis Dashboard — Power BI
 
 ## Project Overview
