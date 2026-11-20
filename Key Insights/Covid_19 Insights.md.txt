@@ -1,0 +1,41 @@
+## Key Insights
+
+### 1. Global COVID-19 Cases
+
+The dashboards provide an overview of confirmed COVID-19 cases, deaths, recovered cases, and active cases across different continents and countries.
+
+### 2. Continent-Wise Analysis
+
+The continent-wise dashboard compares daily new cases, daily new deaths, active cases, and recovered cases across Africa, Asia, Europe, North America, South America, and Australia/Oceania.
+
+### 3. Country-Wise Distribution
+
+The country-wise dashboard shows the geographic distribution of COVID-19 activity across countries using a map and country-level comparisons.
+
+### 4. Confirmed, Recovered, Active Cases and Deaths
+
+The dashboards provide separate KPI and gauge visuals for confirmed cases, recovered cases, active cases, and deaths, allowing the overall status of the pandemic to be monitored.
+
+### 5. COVID-19 Recovery
+
+The country-level analysis compares total recovered cases across countries, with the dashboard showing higher recovery totals for countries such as the USA, India, Brazil, Russia, and the UK.
+
+### 6. Daily and Time-Based Trends
+
+Daily new cases and deaths are analyzed over time. The summary dashboard also provides monthly and yearly views to observe changes in COVID-19 activity.
+
+### 7. Testing and Population
+
+The summary report includes total population and total testing metrics, providing additional context for understanding the scale of COVID-19 activity.
+
+### 8. Geographic Analysis
+
+The map visual provides an interactive geographic view of COVID-19 data, allowing users to explore differences between countries.
+
+### 9. Interactive Analysis
+
+Continent and country filters allow users to interactively explore the COVID-19 data and compare different geographic areas.
+
+## Overall Insight
+
+The Power BI dashboards provide a consolidated view of COVID-19 cases, deaths, recoveries, active cases, testing, population, and trends across countries and continents. The interactive visuals make it easier to explore geographic and time-based patterns in the dataset.
