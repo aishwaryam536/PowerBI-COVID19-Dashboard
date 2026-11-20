@@ -8,24 +8,7 @@ The project analyzes COVID-19 confirmed cases, deaths, recovered cases, active c
 
 ## Dashboard Views
 
-### 1. Continent-Wise Analysis
-
-This dashboard provides analysis of COVID-19 data across different continents.
-
-Key analysis includes:
-
-- Daily New Cases
-- Daily New Deaths
-- Total Recovered Cases
-- Active Cases
-- Confirmed Cases
-- Continent-wise comparison
-- COVID-19 trends over time
-
-<img width="1206" height="605" alt="Continent wise analysis" src="https://github.com/user-attachments/assets/c927e7e2-c8c4-4dc0-b8e2-cd97d2c19ce1" />
-
-
-### 2. Country-Wise Analysis
+### 1. Country-Wise Analysis
 
 This dashboard provides country-level COVID-19 analysis.
 
@@ -41,6 +24,22 @@ Key analysis includes:
 - Geographic distribution of COVID-19 data
 
 <img width="1209" height="611" alt="Country wise analysis" src="https://github.com/user-attachments/assets/edca2c6d-e4a6-426a-b9f7-5e030ea69c60" />
+
+### 2. Continent-Wise Analysis
+
+This dashboard provides analysis of COVID-19 data across different continents.
+
+Key analysis includes:
+
+- Daily New Cases
+- Daily New Deaths
+- Total Recovered Cases
+- Active Cases
+- Confirmed Cases
+- Continent-wise comparison
+- COVID-19 trends over time
+
+<img width="1206" height="605" alt="Continent wise analysis" src="https://github.com/user-attachments/assets/c927e7e2-c8c4-4dc0-b8e2-cd97d2c19ce1" />
 
 ### 3. Summary Report
 
